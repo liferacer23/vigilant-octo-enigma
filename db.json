@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "Tracy",
+      "email": "evan@stickerblitz.com",
+      "password": "$2a$10$ijDFKOk7ilNQENg6Udo.C.fxkUyjnNoXKCc4iT1DQhoc94O.K.rGy",
+      "id": 1
+    }
+  ],
+  "books": [
+    {
+      "id": 123,
+      "title": "The Great Gatsby",
+      "sections": [
+        {
+          "id": 225,
+          "title": "Chapter 1",
+          "sections": [
+            {
+              "id": 1233,
+              "title": "Page 1 one",
+              "sections": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1234,
+      "title": "The Great Gatsby",
+      "sections": []
+    }
+  ]
+}
